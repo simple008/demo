@@ -1,4 +1,4 @@
-package com.nowcoder.demo;
+package com.simple.demo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

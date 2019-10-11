@@ -1,4 +1,4 @@
-package com.nowcoder.demo;
+package com.simple.demo;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
